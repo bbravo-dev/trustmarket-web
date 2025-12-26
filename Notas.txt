@@ -1,0 +1,5 @@
+mejoras y actualizaciones hechas y por hacer
+
+- Permitir cargar varias imagenes de un producto.
+- Permitir enviar imagenes por el chat.
+- 
